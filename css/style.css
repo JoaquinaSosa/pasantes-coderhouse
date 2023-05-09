@@ -554,3 +554,9 @@ footer p{
     display: none;
     }
 }
+/*Media Queris Footer*/
+@media screen and (max-width: 600px) {
+footer {
+    flex-direction: column;
+}
+}
