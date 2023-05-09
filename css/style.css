@@ -505,10 +505,15 @@ footer p{
     #principal {
     width: 100%;
     }
+    .ubicacion-index iframe {
+        width: 50%;
+        height: 50%;
+    }
     
     .ubicacion-index div p {
     width: 100%;
     }
+
     }
 
 
